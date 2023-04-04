@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_06_TryParseOrnek", "_06_Tr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_07_TryParseOrnek", "_07_TryParseOrnek\_07_TryParseOrnek.csproj", "{6D6A4960-97EE-41A0-BD2B-889D0E5BBC1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_08_ConsoleColorOrnek", "_08_ConsoleColorOrnek\_08_ConsoleColorOrnek.csproj", "{4DE72836-FF9A-4EB3-9FB0-5D1B59B92DA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{6D6A4960-97EE-41A0-BD2B-889D0E5BBC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D6A4960-97EE-41A0-BD2B-889D0E5BBC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D6A4960-97EE-41A0-BD2B-889D0E5BBC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE72836-FF9A-4EB3-9FB0-5D1B59B92DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE72836-FF9A-4EB3-9FB0-5D1B59B92DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE72836-FF9A-4EB3-9FB0-5D1B59B92DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE72836-FF9A-4EB3-9FB0-5D1B59B92DA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
