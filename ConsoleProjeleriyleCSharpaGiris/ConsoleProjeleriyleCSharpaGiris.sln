@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_09_ConsoleColor", "_09_Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_10_ConsoleColorEnumdanGelir", "_10_ConsoleColorEnumdanGelir\_10_ConsoleColorEnumdanGelir.csproj", "{3D569380-5699-40AA-B105-BF94BE15EE43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_11_ConsoleColorOrnek", "_11_ConsoleColorOrnek\_11_ConsoleColorOrnek.csproj", "{3EA5B96D-B554-4841-8ED5-229DC17A630C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{3D569380-5699-40AA-B105-BF94BE15EE43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D569380-5699-40AA-B105-BF94BE15EE43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D569380-5699-40AA-B105-BF94BE15EE43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA5B96D-B554-4841-8ED5-229DC17A630C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA5B96D-B554-4841-8ED5-229DC17A630C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA5B96D-B554-4841-8ED5-229DC17A630C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA5B96D-B554-4841-8ED5-229DC17A630C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
