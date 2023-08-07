@@ -27,7 +27,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_10_ConsoleColorEnumdanGeli
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_11_ConsoleColorOrnek", "_11_ConsoleColorOrnek\_11_ConsoleColorOrnek.csproj", "{3EA5B96D-B554-4841-8ED5-229DC17A630C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{3F9EAABB-CD1F-4672-881A-BAD280ABABCA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar-Soru1", "Koleksiyonlar\Koleksiyonlar-Soru1.csproj", "{3F9EAABB-CD1F-4672-881A-BAD280ABABCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
